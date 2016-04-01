@@ -81,3 +81,5 @@ ESLint は npm を使ってインストールします。
 * Ian VanSchooten ([@ianvs](https://github.com/ianvs)) - committer
 * Burak Yiğit Kaya ([@byk](https://github.com/byk)) - committer
 * Alberto Rodríguez ([@alberto](https://github.com/alberto)) - committer
+* Kai Cataldo ([@kaicataldo](https://github.com/kaicataldo)) - committer
+* Michael Ficarra ([@michaelficarra](https://github.com/michaelficarra)) - committer
